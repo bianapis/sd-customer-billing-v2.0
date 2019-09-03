@@ -1,0 +1,50 @@
+{
+  "trackingandRemindersInstanceRecord" : {
+    "customerReminderContactRecord" : {
+      "contactMessage" : "contactMessage",
+      "contactDate" : "09-22-2018",
+      "contactResult" : "contactResult"
+    },
+    "trackingandRemindersResult" : "trackingandRemindersResult",
+    "trackingandRemindersWorkProduct" : "trackingandRemindersWorkProduct"
+  },
+  "invoicingInstanceRecord" : {
+    "customerInvoiceRecord" : {
+      "correspondenceInstanceReference" : "709106",
+      "invoice" : "invoice",
+      "invoiceDate" : "09-22-2018",
+      "documentDirectoryEntryInstanceReference" : "767104"
+    }
+  },
+  "trackingandRemindersInstanceReport" : {
+    "trackingandRemindersInstanceReportParameters" : "trackingandRemindersInstanceReportParameters",
+    "trackingandRemindersInstanceReport" : {},
+    "trackingandRemindersInstanceReportRecord" : {},
+    "trackingandRemindersInstanceReportType" : "trackingandRemindersInstanceReportType"
+  },
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentDueDate" : "09-22-2018",
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule",
+    "customerBillingStatement" : "customerBillingStatement",
+    "customerBillingPaymentDetails" : "customerBillingPaymentDetails",
+    "customerBillingPeriod" : "customerBillingPeriod",
+    "productInstanceReference" : "720330",
+    "customerBillingProductServiceActionDescription" : "customerBillingProductServiceActionDescription",
+    "customerBillingAddress" : "customerBillingAddress",
+    "customerReference" : "783896",
+    "customerBillingTransactionDescription" : "customerBillingTransactionDescription",
+    "customerBillingParty" : "customerBillingParty",
+    "customerBillingTransactionType" : "customerBillingTransactionType",
+    "customerBillingAmount" : "USD 250",
+    "customerAgreementReference" : "704230"
+  },
+  "trackingandRemindersRetrieveActionTaskRecord" : {},
+  "trackingandRemindersRetrieveActionResponse" : "trackingandRemindersRetrieveActionResponse",
+  "trackingandRemindersInstanceAnalysis" : {
+    "trackingandRemindersInstanceAnalysisReport" : {},
+    "trackingandRemindersInstanceAnalysisRecord" : {},
+    "trackingandRemindersInstanceAnalysisParameters" : "trackingandRemindersInstanceAnalysisParameters",
+    "trackingandRemindersInstanceAnalysisReportType" : "trackingandRemindersInstanceAnalysisReportType"
+  },
+  "trackingandRemindersRetrieveActionTaskReference" : "TARRATR782042"
+}

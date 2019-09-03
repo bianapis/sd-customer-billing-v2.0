@@ -1,0 +1,14 @@
+{
+  "invoicingUpdateActionTaskReference" : "IUATR768335",
+  "invoicingInstanceRecord" : {
+    "invoicingWorkProduct" : "invoicingWorkProduct",
+    "customerInvoiceRecord" : {
+      "correspondenceInstanceReference" : "771272",
+      "invoice" : "invoice",
+      "invoiceDate" : "09-22-2018",
+      "documentDirectoryEntryInstanceReference" : "787410"
+    }
+  },
+  "updateResponseRecord" : {},
+  "invoicingUpdateActionTaskRecord" : {}
+}

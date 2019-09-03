@@ -1,0 +1,21 @@
+{
+  "customerBillingProcedureUpdateActionTaskRecord" : {},
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentDueDate" : "09-22-2018",
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule",
+    "customerBillingStatement" : "customerBillingStatement",
+    "customerBillingPaymentDetails" : "customerBillingPaymentDetails",
+    "customerBillingPeriod" : "customerBillingPeriod",
+    "productInstanceReference" : "755071",
+    "customerBillingProductServiceActionDescription" : "customerBillingProductServiceActionDescription",
+    "customerBillingAddress" : "customerBillingAddress",
+    "customerReference" : "779183",
+    "customerBillingTransactionDescription" : "customerBillingTransactionDescription",
+    "customerBillingParty" : "customerBillingParty",
+    "customerBillingTransactionType" : "customerBillingTransactionType",
+    "customerBillingAmount" : "USD 250",
+    "customerAgreementReference" : "784514"
+  },
+  "updateResponseRecord" : {},
+  "customerBillingProcedureUpdateActionTaskReference" : "CBPUATR715917"
+}

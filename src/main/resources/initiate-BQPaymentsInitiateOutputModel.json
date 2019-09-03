@@ -1,0 +1,13 @@
+{
+  "paymentsInstanceReference" : "CBPIR741471",
+  "paymentsInstanceStatus" : "paymentsInstanceStatus",
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule"
+  },
+  "paymentsInstanceRecord" : {
+    "paymentTransactionReference" : "752764",
+    "paymentTransaction" : "paymentTransaction"
+  },
+  "paymentsInitiateActionReference" : "CBPIAR757547",
+  "paymentsInitiateActionRecord" : {}
+}

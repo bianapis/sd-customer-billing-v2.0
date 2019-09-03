@@ -1,0 +1,18 @@
+{
+  "trackingandRemindersInstanceRecord" : {
+    "customerReminderContactRecord" : {
+      "contactMessage" : "contactMessage",
+      "contactDate" : "09-22-2018",
+      "contactResult" : "contactResult"
+    },
+    "trackingandRemindersResult" : "trackingandRemindersResult",
+    "trackingandRemindersWorkProduct" : "trackingandRemindersWorkProduct"
+  },
+  "trackingandRemindersInstanceReference" : "TARIR781130",
+  "trackingandRemindersInitiateActionReference" : "TARIAR779462",
+  "trackingandRemindersInitiateActionRecord" : {},
+  "trackingandRemindersInstanceStatus" : "trackingandRemindersInstanceStatus",
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule"
+  }
+}

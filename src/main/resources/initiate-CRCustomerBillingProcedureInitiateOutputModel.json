@@ -1,0 +1,9 @@
+{
+  "customerBillingProcedureInitiateActionReference" : "CBPIAR734544",
+  "customerBillingProcedureInstanceStatus" : "customerBillingProcedureInstanceStatus",
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule"
+  },
+  "customerBillingProcedureInitiateActionRecord" : {},
+  "customerBillingProcedureInstanceReference" : "CBPIR742002"
+}

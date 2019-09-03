@@ -1,0 +1,42 @@
+{
+  "invoicingInstanceRecord" : {
+    "invoicingWorkProduct" : "invoicingWorkProduct",
+    "customerInvoiceRecord" : {
+      "correspondenceInstanceReference" : "776042",
+      "invoice" : "invoice",
+      "invoiceDate" : "09-22-2018",
+      "documentDirectoryEntryInstanceReference" : "780064"
+    }
+  },
+  "invoicingRetrieveActionTaskRecord" : {},
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentDueDate" : "09-22-2018",
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule",
+    "customerBillingStatement" : "customerBillingStatement",
+    "customerBillingPaymentDetails" : "customerBillingPaymentDetails",
+    "customerBillingPeriod" : "customerBillingPeriod",
+    "productInstanceReference" : "735242",
+    "customerBillingProductServiceActionDescription" : "customerBillingProductServiceActionDescription",
+    "customerBillingAddress" : "customerBillingAddress",
+    "customerReference" : "753015",
+    "customerBillingTransactionDescription" : "customerBillingTransactionDescription",
+    "customerBillingParty" : "customerBillingParty",
+    "customerBillingTransactionType" : "customerBillingTransactionType",
+    "customerBillingAmount" : "USD 250",
+    "customerAgreementReference" : "722629"
+  },
+  "invoicingRetrieveActionTaskReference" : "IRATR788769",
+  "invoicingInstanceReport" : {
+    "invoicingInstanceReportRecord" : {},
+    "invoicingInstanceReport" : {},
+    "invoicingInstanceReportParameters" : "invoicingInstanceReportParameters",
+    "invoicingInstanceReportType" : "invoicingInstanceReportType"
+  },
+  "invoicingRetrieveActionResponse" : "invoicingRetrieveActionResponse",
+  "invoicingInstanceAnalysis" : {
+    "invoicingInstanceAnalysisRecord" : {},
+    "invoicingInstanceAnalysisReportType" : "invoicingInstanceAnalysisReportType",
+    "invoicingInstanceAnalysisParameters" : "invoicingInstanceAnalysisParameters",
+    "invoicingInstanceAnalysisReport" : {}
+  }
+}

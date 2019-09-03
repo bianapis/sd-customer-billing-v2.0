@@ -1,0 +1,9 @@
+{
+  "paymentsUpdateActionTaskReference" : "CBPUATR794074",
+  "paymentsUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "paymentsInstanceRecord" : {
+    "paymentTransactionReference" : "733914",
+    "paymentTransaction" : "paymentTransaction"
+  }
+}

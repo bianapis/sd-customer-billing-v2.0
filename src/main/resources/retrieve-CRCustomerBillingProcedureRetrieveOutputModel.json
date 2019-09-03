@@ -1,0 +1,31 @@
+{
+  "customerBillingProcedureInstanceAnalysis" : {
+    "customerBillingProcedureInstanceAnalysisReportType" : "customerBillingProcedureInstanceAnalysisReportType",
+    "customerBillingProcedureInstanceAnalysisReport" : {},
+    "customerBillingProcedureInstanceAnalysisData" : "customerBillingProcedureInstanceAnalysisData"
+  },
+  "customerBillingProcedureRetrieveActionResponse" : "customerBillingProcedureRetrieveActionResponse",
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentDueDate" : "09-22-2018",
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule",
+    "customerBillingStatement" : "customerBillingStatement",
+    "customerBillingPaymentDetails" : "customerBillingPaymentDetails",
+    "customerBillingPeriod" : "customerBillingPeriod",
+    "productInstanceReference" : "791576",
+    "customerBillingProductServiceActionDescription" : "customerBillingProductServiceActionDescription",
+    "customerBillingAddress" : "customerBillingAddress",
+    "customerReference" : "751929",
+    "customerBillingTransactionDescription" : "customerBillingTransactionDescription",
+    "customerBillingParty" : "customerBillingParty",
+    "customerBillingTransactionType" : "customerBillingTransactionType",
+    "customerBillingAmount" : "USD 250",
+    "customerAgreementReference" : "721609"
+  },
+  "customerBillingProcedureRetrieveActionTaskRecord" : {},
+  "customerBillingProcedureInstanceReportRecord" : {
+    "customerBillingProcedureInstanceReportType" : "customerBillingProcedureInstanceReportType",
+    "customerBillingProcedureInstanceReport" : {},
+    "customerBillingProcedureInstanceReportData" : "customerBillingProcedureInstanceReportData"
+  },
+  "customerBillingProcedureRetrieveActionTaskReference" : "CBPRATR789132"
+}

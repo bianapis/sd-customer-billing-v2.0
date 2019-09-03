@@ -1,0 +1,37 @@
+{
+  "paymentsRetrieveActionResponse" : "paymentsRetrieveActionResponse",
+  "paymentsInstanceAnalysis" : {
+    "paymentsInstanceAnalysisReport" : {},
+    "paymentsInstanceAnalysisRecord" : {},
+    "paymentsInstanceAnalysisParameters" : "paymentsInstanceAnalysisParameters",
+    "paymentsInstanceAnalysisReportType" : "paymentsInstanceAnalysisReportType"
+  },
+  "paymentsRetrieveActionTaskReference" : "CBPRATR709970",
+  "paymentsInstanceReport" : {
+    "paymentsInstanceReport" : {},
+    "paymentsInstanceReportRecord" : {},
+    "paymentsInstanceReportType" : "paymentsInstanceReportType",
+    "paymentsInstanceReportParameters" : "paymentsInstanceReportParameters"
+  },
+  "cRCustomerBillingProcedureInstanceRecord" : {
+    "customerBillingPaymentDueDate" : "09-22-2018",
+    "customerBillingPaymentSchedule" : "customerBillingPaymentSchedule",
+    "customerBillingStatement" : "customerBillingStatement",
+    "customerBillingPaymentDetails" : "customerBillingPaymentDetails",
+    "customerBillingPeriod" : "customerBillingPeriod",
+    "productInstanceReference" : "784332",
+    "customerBillingProductServiceActionDescription" : "customerBillingProductServiceActionDescription",
+    "customerBillingAddress" : "customerBillingAddress",
+    "customerReference" : "724773",
+    "customerBillingTransactionDescription" : "customerBillingTransactionDescription",
+    "customerBillingParty" : "customerBillingParty",
+    "customerBillingTransactionType" : "customerBillingTransactionType",
+    "customerBillingAmount" : "USD 250",
+    "customerAgreementReference" : "733130"
+  },
+  "paymentsRetrieveActionTaskRecord" : {},
+  "paymentsInstanceRecord" : {
+    "paymentTransactionReference" : "775527",
+    "paymentTransaction" : "paymentTransaction"
+  }
+}
