@@ -38,7 +38,7 @@ public class BQInvoicingRetrieveOutputModel   {
   public BQInvoicingRetrieveOutputModelCRCustomerBillingProcedureInstanceRecord getCRCustomerBillingProcedureInstanceRecord() {
     return cRCustomerBillingProcedureInstanceRecord;
   }
-
+  @JsonProperty("cRCustomerBillingProcedureInstanceRecord")
   public void setCRCustomerBillingProcedureInstanceRecord(BQInvoicingRetrieveOutputModelCRCustomerBillingProcedureInstanceRecord cRCustomerBillingProcedureInstanceRecord) {
     this.cRCustomerBillingProcedureInstanceRecord = cRCustomerBillingProcedureInstanceRecord;
   }

@@ -34,7 +34,7 @@ public class BQTrackingandRemindersInitiateOutputModel   {
   public CRCustomerBillingProcedureInitiateOutputModelCRCustomerBillingProcedureInstanceRecord getCRCustomerBillingProcedureInstanceRecord() {
     return cRCustomerBillingProcedureInstanceRecord;
   }
-
+  @JsonProperty("cRCustomerBillingProcedureInstanceRecord")
   public void setCRCustomerBillingProcedureInstanceRecord(CRCustomerBillingProcedureInitiateOutputModelCRCustomerBillingProcedureInstanceRecord cRCustomerBillingProcedureInstanceRecord) {
     this.cRCustomerBillingProcedureInstanceRecord = cRCustomerBillingProcedureInstanceRecord;
   }

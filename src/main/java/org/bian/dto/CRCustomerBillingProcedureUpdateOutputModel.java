@@ -29,7 +29,7 @@ public class CRCustomerBillingProcedureUpdateOutputModel   {
   public CRCustomerBillingProcedureUpdateInputModelCRCustomerBillingProcedureInstanceRecord getCRCustomerBillingProcedureInstanceRecord() {
     return cRCustomerBillingProcedureInstanceRecord;
   }
-
+  @JsonProperty("cRCustomerBillingProcedureInstanceRecord")
   public void setCRCustomerBillingProcedureInstanceRecord(CRCustomerBillingProcedureUpdateInputModelCRCustomerBillingProcedureInstanceRecord cRCustomerBillingProcedureInstanceRecord) {
     this.cRCustomerBillingProcedureInstanceRecord = cRCustomerBillingProcedureInstanceRecord;
   }
